@@ -76,6 +76,6 @@ tolerations: []
 
 affinity: {}
 
-apiBaseUrl: "http://microservices-backend/api"
+apiBaseUrl: "http://microservices-backend:5001/api"
 
 
