@@ -4,7 +4,7 @@ image:
   repository: linhx021/microservice-frontend
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: v3.4.2
+  tag: v4.0
 
 imagePullSecrets: []
 nameOverride: ""
